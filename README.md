@@ -14,9 +14,7 @@
 
 <br><br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/Puvanyapuvi&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-</p>
+
 
 <p>
   📍 <b>Maskeliya, Sri Lanka</b>
